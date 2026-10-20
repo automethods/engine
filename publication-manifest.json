@@ -1,0 +1,286 @@
+{
+  "version": "0.8.7",
+  "mount": "/projects/engine/",
+  "files": [
+    {
+      "path": "Images/KAFEDRA-PROVENANCE.json",
+      "bytes": 1050,
+      "sha256": "13963a9850cf954b5e6c95b35ec456ceae8a9cb948a98da382be3df74918f6f0"
+    },
+    {
+      "path": "Images/PROVENANCE.json",
+      "bytes": 251,
+      "sha256": "c92c329179fa0b699ad7c4ec25a074cfdccf65883c3454095f22fe5ae93da597"
+    },
+    {
+      "path": "Images/favicon.svg",
+      "bytes": 3071,
+      "sha256": "1e7f39c2d9262f825c91b51b677343479d7ea2e2bfba44d9864519400a6999ca"
+    },
+    {
+      "path": "Images/kafedra.png",
+      "bytes": 35772,
+      "sha256": "169856c39cc89b5175f060c52fd0a889de4e30306a1f4c6af35826bcd46ab46d"
+    },
+    {
+      "path": "Images/logo.svg",
+      "bytes": 12238,
+      "sha256": "09453c1d1f9d9d9307831ba9518382d85cc1efe62d13c797807930e17ab75008"
+    },
+    {
+      "path": "Images/transport-logo.glb",
+      "bytes": 7729612,
+      "sha256": "b5a55f968c925a39d5de7e9a479a5a1f762c5afaf1c9805589cfdf77001dc82c"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 2345,
+      "sha256": "10c1086a7e980fd5c2ab6b5fd118eba5870c236166e27ceadd908d8d1b9c8017"
+    },
+    {
+      "path": "README.md",
+      "bytes": 777,
+      "sha256": "f1a22648ceeedc8d83eef7670d9eb8a6034f849bd26fb85a75c6469cf24fcdd7"
+    },
+    {
+      "path": "START-HERE.md",
+      "bytes": 11737,
+      "sha256": "6d6aff7ff72b461222d5d5f90ba5d60fd16b0a1bf96f9315596149b582e7af2f"
+    },
+    {
+      "path": "THIRD-PARTY-NOTICE.md",
+      "bytes": 1246,
+      "sha256": "b006e9920fbb9691ecd8b97fbac96482e83dbb15c2023f0a636329affb21a762"
+    },
+    {
+      "path": "build/A1-design-en.html",
+      "bytes": 548447,
+      "sha256": "51e05fb4f83da27e8b1b21b63c9f1308fc11794c70439a59d937c69bd010a34a"
+    },
+    {
+      "path": "build/A1-design-en.pdf",
+      "bytes": 318260,
+      "sha256": "96e03cfc45010a6e5dc7f207f569857a4cd30c1b66cbe28e295264ee4ac36c9b"
+    },
+    {
+      "path": "build/A1-design.html",
+      "bytes": 551409,
+      "sha256": "60218d0211260e0bbaaccc716d37844af12fd204e984137d3e80b1424bc7ec3b"
+    },
+    {
+      "path": "build/A1-design.pdf",
+      "bytes": 348950,
+      "sha256": "516de0a67c7ef071a8b95d39f437617c47148c022c180ffff958d9244e26408f"
+    },
+    {
+      "path": "build/A1-en.html",
+      "bytes": 349962,
+      "sha256": "15f72e3c913d58e42b4e3bb7add03d46c84786dde114ea0f4bb30d5b53c26f5e"
+    },
+    {
+      "path": "build/A1-en.pdf",
+      "bytes": 261329,
+      "sha256": "685990c38521785193f516023f72a3d3428d0723924f18fa9b5ae5fff30c9e3d"
+    },
+    {
+      "path": "build/A1-powertrain-en.html",
+      "bytes": 59707,
+      "sha256": "369981c645862d253872db4658aff8923eefe2d26975db786fafec3593caf888"
+    },
+    {
+      "path": "build/A1-powertrain-en.pdf",
+      "bytes": 95170,
+      "sha256": "7d4128cb418d4834de6c62e15f8afe2ad285f3ce4f0d0523dee8be444bcc3c34"
+    },
+    {
+      "path": "build/A1-powertrain.html",
+      "bytes": 59717,
+      "sha256": "6b0878e0478da5cb5f3d4a20acbf86f2aae5f2b244f54415455360fba02bf39b"
+    },
+    {
+      "path": "build/A1-powertrain.pdf",
+      "bytes": 110194,
+      "sha256": "837074d0bfa79c86ebf151619799f5b9601c94c2ae690072ba0e3feb57f44e97"
+    },
+    {
+      "path": "build/A1.html",
+      "bytes": 350309,
+      "sha256": "83e11bb7d278de882023670d6bcb844427a0b8997b099937b240ba43b9d95034"
+    },
+    {
+      "path": "build/A1.pdf",
+      "bytes": 279564,
+      "sha256": "5545c944f7b2f98e7cb256deaa1c4f3726309d271370efa4b0b1320dc1b9681c"
+    },
+    {
+      "path": "build/design-report-en.html",
+      "bytes": 1161394,
+      "sha256": "1ebd40b7369cc3d1871185095a6f9f8bee545798b00b852df96523a59397533e"
+    },
+    {
+      "path": "build/design-report-en.pdf",
+      "bytes": 810564,
+      "sha256": "7be2f8d280745848707ea090cd7a4511efb6e93c33623fb7fc5604ae430ab1fc"
+    },
+    {
+      "path": "build/design-report.html",
+      "bytes": 1200854,
+      "sha256": "e8bf997c68c8b6db5935d79336d740eacafafe26b13f94c22755c4da8bb6b58e"
+    },
+    {
+      "path": "build/design-report.pdf",
+      "bytes": 1822728,
+      "sha256": "3856f83b06aa832306f2770ca5b74fd2ae3e7063a7e1ae7c27c48717b14e68bb"
+    },
+    {
+      "path": "build/methodical-guide-en.html",
+      "bytes": 652443,
+      "sha256": "1c3d1b7d4c2857fa54325b10b60c5de822e0422bd0f0acd88b671223bd2ba4f0"
+    },
+    {
+      "path": "build/methodical-guide-en.pdf",
+      "bytes": 530370,
+      "sha256": "1480c5a5193effb5871d61c2e2e9752c3f6cbb6f21dbec383950cc16772181f1"
+    },
+    {
+      "path": "build/methodical-guide.html",
+      "bytes": 685139,
+      "sha256": "ad080f038ffafbdb702638cb5b22fc56f8a421040eecdeb3f4e7386d9ca32179"
+    },
+    {
+      "path": "build/methodical-guide.pdf",
+      "bytes": 1165621,
+      "sha256": "f3fd164bf1e607e09c611fc669c3c63b76b93b512dc9a14fcc891e80c50e3256"
+    },
+    {
+      "path": "build/powertrain-report-en.html",
+      "bytes": 287392,
+      "sha256": "30491d575f2f6151e1fc4fd091da10dd0064f3d81463b92643e2e6e50e67e529"
+    },
+    {
+      "path": "build/powertrain-report-en.pdf",
+      "bytes": 243233,
+      "sha256": "673ceda78fa2ce1ee5deb5e57420e547a2700cdd1e4061798e86e816757d766d"
+    },
+    {
+      "path": "build/powertrain-report.html",
+      "bytes": 303589,
+      "sha256": "0185c8dc818c5cc2253f8e35f4fd1b4e07c6d39c3bb00c8fe24fa88611d35a12"
+    },
+    {
+      "path": "build/powertrain-report.pdf",
+      "bytes": 444130,
+      "sha256": "717f153ec78d709088055556c4afce421fe50f15dae7e2556aa5e0a152575cc0"
+    },
+    {
+      "path": "build/report-en.html",
+      "bytes": 505327,
+      "sha256": "2b52cb40b653c73b18ac322faac1b557ea21bb681063aa81475f9166cf9c92d9"
+    },
+    {
+      "path": "build/report-en.pdf",
+      "bytes": 458082,
+      "sha256": "78ce57f9874c435fd92e6d99dc9fc5773cc1aeb2f66276ee73fd87cfb327c698"
+    },
+    {
+      "path": "build/report.html",
+      "bytes": 524762,
+      "sha256": "e12090750af7ce351c3c07f0cb19ac017dd95448d7f036ad1fcb3f8d14e376a8"
+    },
+    {
+      "path": "build/report.pdf",
+      "bytes": 747221,
+      "sha256": "916e2ecc1131ec5ed0371f26bab33dc5a9fd4cdfb0d7ab87a4803e6895929a6c"
+    },
+    {
+      "path": "design/src/logo-viewer.mjs",
+      "bytes": 7722,
+      "sha256": "04b2297ba7afe3b5cd8f099a9a952014bbe23ed50bc8fb794f7a4b89a6d556bd"
+    },
+    {
+      "path": "docs/ADVISOR-v0.4.md",
+      "bytes": 7873,
+      "sha256": "15ea29f9250d0743e7311314941b3983c220f39090a165fe5947430c2ce53633"
+    },
+    {
+      "path": "docs/ENGINEERING-v0.7.md",
+      "bytes": 12215,
+      "sha256": "c94923094547ad188fc4ae43715ed6fdca34f1ca66e35f3e139c4685b4d289fb"
+    },
+    {
+      "path": "docs/EPA-v0.7.md",
+      "bytes": 10749,
+      "sha256": "e54beb45de3883473c3a87e0f66f1236c0262a83e1e641b5791930b266cf8cb4"
+    },
+    {
+      "path": "docs/IMPLEMENTATION-v0.8.md",
+      "bytes": 855,
+      "sha256": "d1baa5de35f41724a2e0963db4e4628fbf3ff1e0307262b5ab5a3a776cf8c7b4"
+    },
+    {
+      "path": "docs/STATUS.md",
+      "bytes": 1039,
+      "sha256": "8fd202fbf558bb12b6dea53b1ad0373a642b7770f9988cbabff3f585a55e8c92"
+    },
+    {
+      "path": "ice.html",
+      "bytes": 2785492,
+      "sha256": "d62ba1ce96c587fbf98ab27960ffb74241d0b7a333ee3828c4e69bcecea1caf4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5959257,
+      "sha256": "2c8ee21263de31f1fdb2e4ac4250338abaa94175c413daebd544b40ccd3cd9a8"
+    },
+    {
+      "path": "manifest.json",
+      "bytes": 9127,
+      "sha256": "897ec3ed060dcea4dcd848caa1aa2800f6210b4f220239ffb24b7ee04d2fde1e"
+    },
+    {
+      "path": "powertrain.html",
+      "bytes": 4224892,
+      "sha256": "57ead5da53106b85a16c5b5b28fc923ed0c2bb171bada01322bf5297dc789639"
+    },
+    {
+      "path": "vendor/three/LICENSE",
+      "bytes": 1081,
+      "sha256": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc"
+    },
+    {
+      "path": "vendor/three/build/three.core.js",
+      "bytes": 1421746,
+      "sha256": "6a7fc83437818534d5e30ce8c8e0ce76230ca2245446ea24744bb3d88c436583"
+    },
+    {
+      "path": "vendor/three/build/three.module.js",
+      "bytes": 639046,
+      "sha256": "e8ac51bc2f6b7eb17bc88c6540eb0a1fee872f848949373de39d55f34b5c5a8f"
+    },
+    {
+      "path": "vendor/three/examples/jsm/controls/OrbitControls.js",
+      "bytes": 40484,
+      "sha256": "09673b997864b8091943d2673637c0f31f7cf67daeddd0902fce9bf098a8d093"
+    },
+    {
+      "path": "vendor/three/examples/jsm/environments/RoomEnvironment.js",
+      "bytes": 4960,
+      "sha256": "55f466192cc84298755a424c5e040345006b2ee1455589b3b54126c2ea4123f4"
+    },
+    {
+      "path": "vendor/three/examples/jsm/loaders/GLTFLoader.js",
+      "bytes": 114576,
+      "sha256": "e4e692923224a10bbc00be04365d6356b5e8c48b2bbd1f22a7fe929591646fb8"
+    },
+    {
+      "path": "vendor/three/examples/jsm/utils/BufferGeometryUtils.js",
+      "bytes": 35539,
+      "sha256": "fda7e946b8e0b5ab39b779206589e7a1079a22eb24efb89d7223e03fdfb1f751"
+    },
+    {
+      "path": "vendor/three/examples/jsm/utils/SkeletonUtils.js",
+      "bytes": 11062,
+      "sha256": "0761b1e003917b215d25dd81439d854b36034b5a57ce84c2cfe3b02428d7b253"
+    }
+  ]
+}
