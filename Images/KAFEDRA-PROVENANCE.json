@@ -1,0 +1,23 @@
+{
+  "source": "TEA/New/assets/models/transport-logo.glb and TEA/New/src/logo-viewer.js",
+  "institution": "Житомирський агротехнічний фаховий коледж",
+  "department": "Кафедра автомобільного транспорту",
+  "modelModification": "none",
+  "viewerModification": "Model path adjusted for ICE; same orientation, interaction and animation.",
+  "fallback": "PNG rendered locally from the copied model; shown when the 3D viewer is unavailable.",
+  "dependencies": "Local Three.js copy from TEA/New/vendor/three; MIT license retained in vendor/three/LICENSE.",
+  "files": [
+    {
+      "path": "Images/transport-logo.glb",
+      "sha256": "b5a55f968c925a39d5de7e9a479a5a1f762c5afaf1c9805589cfdf77001dc82c"
+    },
+    {
+      "path": "Images/kafedra.png",
+      "sha256": "169856c39cc89b5175f060c52fd0a889de4e30306a1f4c6af35826bcd46ab46d"
+    },
+    {
+      "path": "design/src/logo-viewer.mjs",
+      "sha256": "04b2297ba7afe3b5cd8f099a9a952014bbe23ed50bc8fb794f7a4b89a6d556bd"
+    }
+  ]
+}
